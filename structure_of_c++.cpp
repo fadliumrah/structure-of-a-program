@@ -2,7 +2,12 @@
 using namespace std; //deklarasi namespace menggunakan std
 
 class kelas{
-    
+    //hak akses:
+    //data dan variabel
+        //hak akses fungsi
+        void fungsi(){
+            
+        }
 };
 void fungsi()
 {
