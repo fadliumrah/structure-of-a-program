@@ -1,4 +1,4 @@
-#include<iostream>//pustaka bahasa c++ atau library
+#include<iostream>//pustaka bahasa c++ yang terletak di iostream atau library
 using namespace std; //deklarasi namespace menggunakan std
 
 int main(){//fungsi utama atau fungsi body
