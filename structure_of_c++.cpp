@@ -1,12 +1,12 @@
 #include<iostream>//pustaka bahasa c++ yang terletak di iostream atau library
 using namespace std; //deklarasi namespace menggunakan std
 
-class kelas{
-    //hak akses:
-    //data dan variabel
-        //hak akses fungsi
-        void fungsi(){
-            
+class kelas{//OOP
+    //hak akses ex public:
+    //data dan variabel: string data;
+        //hak akses fungsi ex public:
+        void fungsi(){//fungsi void atau fungsi yang tidak ada nilai kembalian
+
         }
 };
 void fungsi()
