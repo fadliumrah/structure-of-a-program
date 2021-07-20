@@ -21,7 +21,7 @@ int main(){//fungsi utama atau fungsi body atau entry point
     dua baris atau lebih*/
 
     kelas k;//object
-    k.fungsi();
+    k.fungsi();//pemanggilan fungsi
 
     return 0;//mengembalikan nilai ke nol setelah compile program
 }
